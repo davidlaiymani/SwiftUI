@@ -1,0 +1,11 @@
+# Cours 2025 : non versionné
+CoursBUT2/2025/
+
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
